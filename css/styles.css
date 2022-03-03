@@ -1,0 +1,29 @@
+body {
+  background-image: url('imag.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  backface-visibility: visible;
+}
+
+.one{
+  list-style-position: inside;
+}
+
+hr {
+  background-color: inherit;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 4px;
+  border-color: #3498DB;
+
+}
+
+h1 {
+  color: #273746;
+
+}
+
+h3 {
+  color: #273746;
+
+}
